@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springsecurity_demo" />
+        <module name="springboot_pe_2211" />
+        <module name="clean_pic_quartz" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="clean_pic_quartz" target="1.8" />
+      <module name="springboot_pe_2211" target="1.8" />
+      <module name="springsecurity_demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="clean_pic_quartz" options="-parameters" />
+      <module name="springboot_pe_2211" options="-parameters" />
+      <module name="springsecurity_demo" options="-parameters" />
+    </option>
+  </component>
+</project>

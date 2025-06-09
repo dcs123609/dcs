@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="612711fe-470c-4508-a5f3-79c915ac2e13" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="springboot_pe: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="springboot_pe: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\software\maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2wkGjgjH48SBCkEpbbbUSfu3yR0" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springsecurity_demo/src/main/java/com/wl/springsecurity_demo/confg" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\software\ideaworkspace\springboot_pe_2211\springsecurity_demo\src\main\java\com\wl\springsecurity_demo\confg" />
+      <recent name="D:\software\ideaworkspace\springboot_pe_2211\src\main\resources\static\main\pages" />
+      <recent name="D:\software\ideaworkspace\springboot_pe_2211\src\main\resources\static\demos" />
+      <recent name="D:\software\ideaworkspace\springboot_pe_2211\src\main\resources\static\app" />
+      <recent name="D:\software\ideaworkspace\springboot_pe_2211\src\main\java\com\wl\springboot_pe_2211\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringbootPe2211Application">
+    <configuration name="Generator (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wl.springsecurity_demo.demos.Generator" />
+      <module name="springsecurity_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wl.springsecurity_demo.demos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Generator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wl.springboot_pe_2211.demo.Generator" />
+      <module name="springboot_pe_2211" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wl.springboot_pe_2211.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wl.springboot_pe_2211.service.impl.MemberServiceImpl" />
+      <module name="springboot_pe_2211" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wl.springboot_pe_2211.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyScheduler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wl.springboot_pe_2211.demo.MyScheduler" />
+      <module name="springboot_pe_2211" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wl.springboot_pe_2211.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PoiTest.readExcel1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_pe_2211" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wl.springboot_pe_2211.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wl.springboot_pe_2211.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.wl.springboot_pe_2211.demo.PoiTest" />
+      <option name="METHOD_NAME" value="readExcel1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CleanPicQuartzApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="clean_pic_quartz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wl.clean_pic_quartz.CleanPicQuartzApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootPe2211Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_pe_2211" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wl.springboot_pe_2211.SpringbootPe2211Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringsecurityDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springsecurity_demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wl.springsecurity_demo.SpringsecurityDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Generator (1)" />
+        <item itemvalue="Application.MemberServiceImpl" />
+        <item itemvalue="Application.Generator" />
+        <item itemvalue="Application.MyScheduler" />
+        <item itemvalue="JUnit.PoiTest.readExcel1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@7bef0f2e" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@7bef0f2e" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@b1b11c8" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="612711fe-470c-4508-a5f3-79c915ac2e13" name="Default Changelist" comment="" />
+      <created>1746578294498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746578294498</updated>
+      <workItem from="1746578297420" duration="6493000" />
+      <workItem from="1746597770001" duration="1020000" />
+      <workItem from="1746684413600" duration="7810000" />
+      <workItem from="1746750177900" duration="17000" />
+      <workItem from="1746757111374" duration="3663000" />
+      <workItem from="1747181788951" duration="11567000" />
+      <workItem from="1747289144677" duration="5869000" />
+      <workItem from="1747354820445" duration="773000" />
+      <workItem from="1747361730027" duration="4471000" />
+      <workItem from="1747786867641" duration="8960000" />
+      <workItem from="1747807333807" duration="11000" />
+      <workItem from="1747807554423" duration="127000" />
+      <workItem from="1747893921696" duration="8595000" />
+      <workItem from="1747960205895" duration="11000" />
+      <workItem from="1747966774586" duration="1941000" />
+      <workItem from="1748393382143" duration="8059000" />
+      <workItem from="1748412536383" duration="8000" />
+      <workItem from="1748498495395" duration="6342000" />
+      <workItem from="1748996554289" duration="6837000" />
+      <workItem from="1749017110754" duration="416000" />
+      <workItem from="1749104051130" duration="5907000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wl/springboot_pe_2211/service/impl/OrdersettingServiceImpl.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

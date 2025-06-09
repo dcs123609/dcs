@@ -1,0 +1,22 @@
+#
+server:
+  port: 80
+  servlet:
+    context-path: /
+
+#
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: 123456
+    url: jdbc:mysql:///springboot_pe?useSSL=false&characterEncoding=utf-8
+    type: com.alibaba.druid.pool.DruidDataSource
+  redis:
+    host: 127.0.0.1
+    port: 6379
+# mybatis plus
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
